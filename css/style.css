@@ -1,0 +1,43 @@
+.head_txt{
+  color: blue;
+  margin: 10px 0 0 30px;
+  float: left;
+}
+
+nav ul{
+  display: flex;
+  margin: 0;
+  padding: 6px;
+  list-style-type: none;
+  justify-content: flex-end;
+}
+
+nav a {
+  display: block;
+  list-style-type: none;
+  padding: 12px 12px;
+}
+
+.mainA{
+  display: flex;
+}
+
+.pictureA{
+  width: 750px;
+  height: 500px;
+  margin-right: 0;
+  margin-left: auto;
+  display: block;
+}
+
+.main_txt{
+  font-size: 50px;
+  line-height:13;
+}
+
+.boxA{
+  width: 2000px;
+  height: 200px;
+  margin: -350px ;
+  background: blue;
+}
